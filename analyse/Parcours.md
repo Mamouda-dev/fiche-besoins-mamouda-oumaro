@@ -2,7 +2,7 @@
 
 ## 1.Parcours actuel: une vente a la boutique 
 
-Situation : un client arrive et veut une pantalon en taile M. ben est seul ce jour-la
+Situation : un client arrive et veut un pantalon en taile M. ben est seul ce jour-la
 
 |Etape | Ce qui se passe | Point de blocage |
 |---|---|---|
