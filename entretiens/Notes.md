@@ -14,13 +14,13 @@
 
 ## Citations exactes du client
 
-- <<je vend mais je voir pas l argent >>
-- <<je parviens pas a bien gerer mais commande watsapp car la plus part du temps suis embrouille et de fois j oublie certaine commande>>
-- <<je remarque de plus en plus une baisse de la production financiere >>
-- <<je cherche un moyen de rendre ma boutique plus moderne et toucher une plus grande audiences >>
-- <<je souhaite un truc avec un budget pas trop eleve >>
+- «je vend mais je voir pas l argent. »
+- «je parviens pas a bien gerer mais commande watsapp car la plus part du temps suis embrouille et de fois j oublie certaine commande. »
+- «je remarque de plus en plus une baisse de la production financiere. »
+- «je cherche un moyen de rendre ma boutique plus moderne et toucher une plus grande audiences. »
+- «je souhaite un truc avec un budget pas trop eleve . »
 - « Je note tout dans le cahier, mais quand Ben est seule il oublie souvent d'écrire les ventes. »
-- <<la plus part du temps j oublie les credits des client>>
+- «la plus part du temps j oublie les credits des client . »
 
 
 ## Difficultés rencontrées
