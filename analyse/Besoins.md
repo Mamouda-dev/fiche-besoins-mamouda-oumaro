@@ -18,10 +18,10 @@ les citation sont celle des fichiier analyse\persona.md et entretiens\notes.md.
 |BF-08 | Alerter quand un article est presque en rupture | Could |
 |BF-09 | Voir le total des ventes du jour et du mois | could |
 |BF-10 | Gerer les commandes chez le fournisseur | Won't |
-|BF-11 | pouvoir utiliser la solution sur telephone | Must |
-|BF-12 | Tres simple ,peu d'ecrans,et en francais |Must |
-|BF-13 | Marcher meme  quand internet est coupe | should |
-|BF-14 | Cout tres bas | 
+|BF-01 | pouvoir utiliser la solution sur telephone | Must |
+|BF-02 | Tres simple ,peu d'ecrans,et en francais |Must |
+|BF-03 | Marcher meme  quand internet est coupe | should |
+|BF-03 | Cout tres bas | 
 
 **Donc au final on aurra donc besoin de 10 fonctionalites importante et 4 complementaire.**
 
