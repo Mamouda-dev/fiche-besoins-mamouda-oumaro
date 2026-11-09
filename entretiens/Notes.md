@@ -1,6 +1,6 @@
 # NOTES D'ENTRETIENT (J1)
 
-- Dates :[10/09/27]
+- Dates :[10/07/26]
 - Durée :[25min]
 - lieu de l'entretien :[Marcher mokolo ]
 
