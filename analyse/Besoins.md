@@ -21,7 +21,7 @@ les citation sont celle des fichiier analyse\persona.md et entretiens\notes.md.
 |BF-01 | pouvoir utiliser la solution sur telephone | Must |
 |BF-02 | Tres simple ,peu d'ecrans,et en francais |Must |
 |BF-03 | Marcher meme  quand internet est coupe | should |
-|BF-03 | Cout tres bas | 
+|BF-04 | Cout tres bas | 
 
 **Donc au final on aurra donc besoin de 10 fonctionalites importante et 4 complementaire.**
 
